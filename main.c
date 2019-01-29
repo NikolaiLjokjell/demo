@@ -1,4 +1,4 @@
-#include "studio.h"
+#include "stdio.h"
 
 int main() {
 	printf("Hello world\n");
@@ -7,7 +7,7 @@ int main() {
 		return 1;
 	}
 	
-	printf("...and Mars\n");
+	printf("...and Jupiter\n");
 
 	return 0;
 }
